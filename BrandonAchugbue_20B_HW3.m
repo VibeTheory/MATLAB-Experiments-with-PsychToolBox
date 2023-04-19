@@ -1,4 +1,4 @@
-% Demonstration of textures
+% Simple experiment to measure and record patient response time to changes in position of a face in the visual field 
 % Author: Brandon Achugbue (08/15/22)
 
 %% SETUP
