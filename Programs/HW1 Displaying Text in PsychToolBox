@@ -9,7 +9,7 @@ clc         % clear command window
 rng shuffle % seed the random number generator using current time
 close all   % close figure windows
 sca         % close Psychtoolbox windows
-
+ 
 Screen('Preference', 'VisualDebugLevel', 1)          ; % suppress Psychtoolbox welcome screen
 Screen('Preference', 'SkipSyncTests'   , 1)          ; % skip synchronization tests
 mainScreenNum       = max(Screen('Screens'))         ; % get main screen number 
