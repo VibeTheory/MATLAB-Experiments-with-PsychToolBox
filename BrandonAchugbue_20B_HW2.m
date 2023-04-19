@@ -1,5 +1,5 @@
 % PSYCH 20B Homework 2
-% Display text of various colors at various screen-positions.
+% Survey and simple experiment to test for color blindness
 % Author: Brandon Achugbue (08/15/22)
 
 %% SETUP
