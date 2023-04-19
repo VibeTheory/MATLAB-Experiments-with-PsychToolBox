@@ -1,4 +1,9 @@
-% Simple experiment to measure and record patient response time to changes in position of a face in the visual field 
+% Simple experiment to measure and record patient response time to changes 
+% in position of a face in the visual field.
+% In each trial, participants are presented with a face image in the 
+% center of the screen, and after some amount of time, shown the same face 
+% again in a location shifted in some direction as specified by the 
+% trialType vector (up = 1, down = 2, left = 3, right = 4).
 % Author: Brandon Achugbue (08/15/22)
 
 %% SETUP
